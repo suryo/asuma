@@ -12,17 +12,17 @@ Changelog and New Features
 
 versi 1.0.0
 
--halaman home
--Pengisian survey Mahasiswa sesuai KRS
-    -menu angket mahasiswa untuk memasukkan npm/nim
--login admin
--dashboard (respon angket, jumlah mahasiswa, jumlah angket, respone rate)
--dashboard prodi (menampilkan angket, respon dan respon rate per prodi)
--set angkate mahasiswa untuk survey dosen
--set angket mahasiswa untuk survey biro
--report instrumen prodi
--report instrumen dosen
--report instrumen biro
+1. halaman home
+2. Pengisian survey Mahasiswa sesuai KRS
+3. menu angket mahasiswa untuk memasukkan npm/nim
+4. login admin
+5. dashboard (respon angket, jumlah mahasiswa, jumlah angket, respone rate)
+6. dashboard prodi (menampilkan angket, respon dan respon rate per prodi)
+7. set angkate mahasiswa untuk survey dosen
+8. set angket mahasiswa untuk survey biro
+9. report instrumen prodi
+10. report instrumen dosen
+11. report instrumen biro
 
 
 *******************
